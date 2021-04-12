@@ -1,4 +1,5 @@
-# Lupin
+<p align='center'><a href='https://github.com/LupinOperatingSystem/lupin'><img width='300px' src='./Meta/lupin-dark-logo.png'/></a></p>
+
 An uncommon x86_64 Operating System 
 
 # Beware
