@@ -1,6 +1,4 @@
-<p align='center'><a href='https://github.com/LupinOperatingSystem/lupin'><img width='300px' src='./Meta/lupin-dark-logo.png'/></a></p>
-
-An uncommon x86_64 Operating System 
+<p align='center'><img width='300px' src='./Meta/lupin-dark-logo.png#gh-light-mode-only'/><img width='300px' src='./Meta/lupin-white-logo.png#gh-dark-mode-only'/></p>
 
 # Beware
 Lupin is not a nice OS or something that's good, and not something that *just works*.
